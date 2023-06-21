@@ -1,0 +1,18 @@
+#
+## File for making use of the 3d models of Hearts of Star Wars
+#
+
+# BARC Speeder of the Republic
+
+entity = {
+    clone = "EMP_carrier_0_entity"
+    name = "TARK_carrier_entity"
+    pdxmesh = "IMP_SD2"
+}
+
+entity = {
+    clone = "EMP_carrier_entity"
+    name = "TARK_carrier_entity"
+    pdxmesh = "IMP_SD2"
+}
+

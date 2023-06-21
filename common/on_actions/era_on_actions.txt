@@ -7,6 +7,7 @@ on_actions = {
 				activate_mission = invasion_of_kashyyyk_nag
 			}
 			set_global_flag = era_of_restoration_1
+			set_variable = {global.current_era = 1}
 			every_country = {
 				if = {
 					limit  ={
@@ -22,6 +23,62 @@ on_actions = {
 				}
 				else_if = {
 					add_ideas = safe_haven
+				}
+			}
+		}
+	}
+	on_capitulation_immediate = {
+		effect = {
+			if = {
+				limit = {
+					ROOT = {
+						TAG = TOF
+					}
+				}
+				if = {
+					limit = {
+						has_global_flag = nagai_refused_peace_deal
+						FROM = {
+							TAG = NAG
+						}
+					}
+					annex_country = {
+						target = TOF
+						transfer_troops = NO
+					}
+					news_event = eraevent.4
+				}else = {
+					if = {
+						limit = {
+							ROOT = {
+								has_goverment = democratic
+							}
+						}
+						ZEL = {
+							annex_country = {
+								target = TOF
+								transfer_troops = NO
+							}
+						}
+					}
+					news_event = eraevent.4
+				}
+			}
+		}
+	}
+	on_peaceconference_ended = {
+		if = {
+			limit = {
+				FROM = {
+					has_goverment = democratic
+				}
+				ROOT = {
+					has_goverment = democratic
+				}
+			}
+			FROM = {
+				faction_leader = {
+					add_to_faction = ROOT
 				}
 			}
 		}

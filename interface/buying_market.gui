@@ -206,11 +206,13 @@ guiTypes = {
             name = "gun_button" 
             position = { x = 70 y = 87 }
             spriteType = "GFX_gun_buy"
+            pdx_tooltip = "gun_button_tt"
         }
         buttonType = {
             name = "tank_button" 
             position = { x = 251 y = 87 }
             spriteType = "GFX_tank_buy"
+            pdx_tooltip = "tank_button_tt"
         }
         buttonType = {
             name = "level_1" 
@@ -1322,7 +1324,7 @@ guiTypes = {
             spriteType = "GFX_grid_back_market"
         }
         buttonType = {
-            name = "maruader" 
+            name = "marauder" 
             position = { x = 343 y = -304 }
             spriteType = "GFX_CR70_1_medium"
         }

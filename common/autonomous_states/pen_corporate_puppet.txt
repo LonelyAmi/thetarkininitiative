@@ -46,5 +46,6 @@ autonomy_state = {
 	}
 	allowed_levels_filter = {
 		autonomy_pen_corporate_puppet
+		autonomy_pen_corporate_puppet_autonomous
 	}
 }

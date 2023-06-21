@@ -70,7 +70,7 @@ technologies = {
 
 		folder = {
 			name = emp_naval_folder
-			position = {  x = 0 y = 3 }
+			position = {  x = 3 y = 3 }
 		}
 
 		ai_will_do = {
@@ -96,11 +96,11 @@ technologies = {
 
 		research_cost = 1.75
 
-		start_year = 4
+		start_year = 7
 
 		folder = {
 			name = emp_naval_folder
-			position = {  x = 0 y = 8 }
+			position = {  x = 3 y = 8 }
 		}
 
 		ai_will_do = {
@@ -127,11 +127,11 @@ technologies = {
 
 		research_cost = 1.75
 
-		start_year = 4
+		start_year = 9
 
 		folder = {
 			name = emp_naval_folder
-			position = {  x = 0 y = 12 }
+			position = {  x = 3 y = 12 }
 		}
 
 		ai_will_do = {
@@ -161,7 +161,7 @@ technologies = {
 
 		folder = {
 			name = emp_naval_folder
-			position = {  x = 3 y = 3 }
+			position = {  x = 0 y = 3 }
 		}
 
 		ai_will_do = {
@@ -187,11 +187,11 @@ technologies = {
 
 		research_cost = 1.75
 
-		start_year = 4
+		start_year = 5
 
 		folder = {
 			name = emp_naval_folder
-			position = {  x = 3 y = 5 }
+			position = {  x = 0 y = 4 }
 		}
 
 		ai_will_do = {
@@ -217,11 +217,11 @@ technologies = {
 
 		research_cost = 1.75
 
-		start_year = 4
+		start_year = 6
 
 		folder = {
 			name = emp_naval_folder
-			position = {  x = 3 y = 7 }
+			position = {  x = 0 y = 6 }
 		}
 
 		ai_will_do = {
@@ -275,11 +275,11 @@ technologies = {
 		}
 		research_cost = 1.75
 
-		start_year = 4
+		start_year = 8
 
 		folder = {
 			name = emp_naval_folder
-			position = {  x = 3 y = 11 }
+			position = {  x = 0 y = 11 }
 		}
 
 		ai_will_do = {
@@ -306,11 +306,11 @@ technologies = {
 
 		research_cost = 1.75
 
-		start_year = 4
+		start_year = 10
 
 		folder = {
 			name = emp_naval_folder
-			position = {  x = 3 y = 13 }
+			position = {  x = 0 y = 14 }
 		}
 
 		ai_will_do = {
@@ -367,11 +367,11 @@ technologies = {
 	
 		research_cost = 1.75
 
-		start_year = 4
+		start_year = 5
 
 		folder = {
 			name = emp_naval_folder
-			position = {  x = 1 y = 5 }
+			position = {  x = 1 y = 4 }
 		}
 
 		ai_will_do = {
@@ -402,7 +402,7 @@ technologies = {
 
 		research_cost = 1.75
 
-		start_year = 4
+		start_year = 7
 
 		folder = {
 			name = emp_naval_folder
@@ -462,7 +462,7 @@ technologies = {
 
 		research_cost = 1.75
 
-		start_year = 4
+		start_year = 9
 
 		folder = {
 			name = emp_naval_folder
@@ -529,11 +529,11 @@ technologies = {
 		}
 		research_cost = 1.75
 
-		start_year = 4
+		start_year = 12
 
 		folder = {
 			name = emp_naval_folder
-			position = {  x = 0 y = 17 }
+			position = {  x = 0 y = 19 }
 		}
 
 		XOR = {
@@ -568,11 +568,11 @@ technologies = {
 
 		research_cost = 1.75
 
-		start_year = 4
+		start_year = 12
 
 		folder = {
 			name = emp_naval_folder
-			position = {  x = 2 y = 17 }
+			position = {  x = 2 y = 19 }
 		}
 
 		
@@ -667,11 +667,11 @@ technologies = {
 
 		research_cost = 1.75
 
-		start_year = 8
+		start_year = 5
 
 		folder = {
 			name = emp_naval_folder
-			position = {  x = 6 y = 5 }
+			position = {  x = 6 y = 4 }
 		}
 
 		ai_will_do = {
@@ -699,7 +699,7 @@ technologies = {
 
 		research_cost = 1.75
 
-		start_year = 8
+		start_year = 7
 
 		folder = {
 			name = emp_naval_folder
@@ -731,7 +731,7 @@ technologies = {
 
 		research_cost = 1.75
 
-		start_year = 8
+		start_year = 9
 
 		folder = {
 			name = emp_naval_folder
@@ -799,11 +799,11 @@ technologies = {
 
 		research_cost = 1.5
 
-		start_year = 4
+		start_year = 5
 
 		folder = {
 			name = emp_naval_folder
-			position = {  x = 8 y = 5 }
+			position = {  x = 8 y = 4 }
 		}
 
 		XOR = {
@@ -829,11 +829,11 @@ technologies = {
 
 		research_cost = 1.5
 
-		start_year = 4
+		start_year = 5
 
 		folder = {
 			name = emp_naval_folder
-			position = {  x = 10 y = 5 }
+			position = {  x = 10 y = 4 }
 		}
 
 		ai_will_do = {
@@ -862,7 +862,7 @@ technologies = {
 
 		research_cost = 1.5
 
-		start_year = 4
+		start_year = 7
 
 		folder = {
 			name = emp_naval_folder
@@ -890,7 +890,7 @@ technologies = {
 
 		research_cost = 1.5
 
-		start_year = 4
+		start_year = 9
 
 		folder = {
 			name = emp_naval_folder
@@ -946,11 +946,11 @@ technologies = {
 
 		research_cost = 1.5
 
-		start_year = 4
+		start_year = 5
 
 		folder = {
 			name = emp_naval_folder
-			position = {  x = 12 y = 5 }
+			position = {  x = 12 y = 4 }
 		}
 
 		ai_will_do = {
@@ -1003,7 +1003,7 @@ technologies = {
 		}
 		research_cost = 1.5
 
-		start_year = 4
+		start_year = 8
 
 		folder = {
 			name = emp_naval_folder
@@ -1038,7 +1038,7 @@ technologies = {
 
 		research_cost = 1.5
 
-		start_year = 4
+		start_year = 8
 
 		folder = {
 			name = emp_naval_folder
@@ -1061,7 +1061,7 @@ technologies = {
 
 		research_cost = 1.5
 
-		start_year = 4
+		start_year = 8
 
 		folder = {
 			name = emp_naval_folder
@@ -1084,11 +1084,11 @@ technologies = {
 
 		research_cost = 1.5
 
-		start_year = 4
+		start_year = 10
 
 		folder = {
 			name = emp_naval_folder
-			position = {  x = 12 y = 13 }
+			position = {  x = 12 y = 14 }
 		}
 
 		ai_will_do = {

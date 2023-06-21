@@ -11,5 +11,10 @@
  
  #Imperial Positions
  marshal_tt:0 "The Imperial Marshal is responsible for rallying, under command of the Emperor, the Empire's disparate forces against its enemies. The Imperial Marshal receives bonuses to this effect and must be loyal to the Emperor to keep their position."
+
+ gun_button_tt: "Small Arms Market"
+ tank_button_tt: "Armoured Vehicle Market"
+ CALL_ALLY_ENABLED_TT:0 "While the New Republic decides the best way to deal with this conflict we cannot call upon our allies to aid us"
+
  #overseer_tt:0
  #claimant_tt:0 "An Imperial Claimant is any warlord who is currently claiming to be the true Emperor, disregarding the current Emperor. Any warlord becoming a claimant will initiate a power struggle." 
